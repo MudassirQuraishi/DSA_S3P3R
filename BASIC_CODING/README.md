@@ -17,5 +17,3 @@ Here's a list of topics covered in this course:
 6. [Ternary-Operator-2](TERENARY_OPERATORS_2) |
 
 7. [Switch-1](SWITCH_1) |
-
-8. [Switch-2] (SWITCH_2) |
