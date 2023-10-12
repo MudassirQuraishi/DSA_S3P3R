@@ -22,5 +22,5 @@ You are tasked with writing a program to find and print the largest of three giv
 
 - For the given input example: 5
 
-[JAVA](solution.java)
+[JAVA](solution.java) |
 [JAVASCRIPT](solution.js)
